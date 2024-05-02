@@ -1,0 +1,96 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: gray;
+}
+
+header {
+    background-color: black;
+    width: 100%;
+    margin-top: 0%;
+    margin-bottom: 5%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-family: Helvetica;
+    margin: 0%;
+    font-size: 40px;
+}
+
+h1 {
+    font-size: 84px;
+    margin-top: 0%;
+}
+
+.lienchapitre {
+    text-decoration: none;
+    color: red;
+}
+
+.introDiv {
+    width: 60%;
+    margin: auto;
+    margin-bottom: 3%;
+    text-align: center;
+}
+
+.ligne {
+    background-color: black;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 3%;
+    border-radius: 30px;
+}
+
+.categories {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.btn1 {
+    background-color: #5c5b5a;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 4px;
+    cursor: pointer;
+    width: 200px;
+}
+
+.btn2 {
+    background-color: #5c5b5a;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 4px;
+    cursor: pointer;
+    width: 200px;
+    
+}
+
+.btn3 {
+    background-color: #5c5b5a;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 4px;
+    cursor: pointer;
+    width: 200px;
+}

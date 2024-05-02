@@ -1,0 +1,15 @@
+.divinfos {
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+
+.soustitre {
+    color: black;
+    text-decoration: underline;
+}
+
+span {
+    font-weight: bold;
+    font-size: 25px;
+}

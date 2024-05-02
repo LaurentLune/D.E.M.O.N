@@ -1,0 +1,32 @@
+.tabperso {
+    margin: auto;
+}
+
+table {
+    border-collapse: collapse;
+    border: 3px solid black;
+    width: 60%;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+td {
+    border: 3px solid black;
+    height: 30px;
+}
+
+.tddemon {
+    width: 50%;
+}
+
+.tdinspecteur {
+    width: 50%;
+}
+
+.tablien {
+    text-decoration: none;
+    color: black;
+}
+.tablien:hover {
+    text-decoration: underline;
+}
