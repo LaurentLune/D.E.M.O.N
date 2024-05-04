@@ -9,7 +9,53 @@
     text-decoration: underline;
 }
 
+.section {
+    margin-bottom: 5%;
+}
+
 span {
     font-weight: bold;
     font-size: 25px;
+}
+
+.paragraphecategorisation {
+    margin-bottom: 3%;
+}
+
+.tabdemon {
+    margin: auto;
+    margin-bottom: 5%;
+}
+
+table {
+    border-collapse: collapse;
+    border: 3px solid black;
+    width: 60%;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+td {
+    border: 3px solid black;
+    height: 30px;
+}
+
+.tdcategorie {
+    width: 25%;
+}
+
+.tdmetaphorme {
+    width: 50%;
+}
+
+.tdpossessif {
+    width: 50%;
+}
+
+.tdsousmetamorphe {
+    width: 16%;
+}
+
+.tdsouspossessif {
+     width: 25%;
 }
