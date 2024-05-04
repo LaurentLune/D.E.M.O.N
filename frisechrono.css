@@ -4,3 +4,28 @@
     margin: auto;
     font-family: Helvetica;
 }
+
+p {
+    margin-bottom: 5%;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+
+.tablien {
+    text-decoration: none;
+    color: black;
+}
+.tablien:hover {
+    text-decoration: underline;
+}
+
+.ligne {
+    background-color: black;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 3%;
+    border-radius: 30px;
+}
