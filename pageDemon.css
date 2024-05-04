@@ -10,3 +10,28 @@ img {
     height: 400px;
     width: 400px;
 }
+
+h3 {
+    margin-top: 1%;
+    font-size: 25px;
+}
+
+span {
+    font-weight: bold;
+}
+
+table {
+    margin: auto;
+    margin-bottom: 5%;
+    border-collapse: collapse;
+    border: 3px solid black;
+    width: 70%;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+td {
+    border: 3px solid black;
+    height: 30px;
+    width: 16%;
+}
